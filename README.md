@@ -8,9 +8,10 @@ Then install tkinter, customthinkter and cryptography packages so that the progr
 
 Run the application and create you first password file key and enjoy :)
 
-This was created during my first year of my Computer Science degree just as something fun to do om the side of my studies 
+This was created during my first year of my Computer Science degree just as something fun to do on the side of my studies 
 
-Development took a couple of hours but it was created to reinforce my python programming skills as it has been a while
+Development took a couple of hours but it was created to reinforce my python programming skills
+as it has been a while since I coded a project using this language
 
 Thanks :) 🤖
 
