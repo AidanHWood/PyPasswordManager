@@ -1,4 +1,4 @@
-**# PyPasswordManager ⌨️
+PyPasswordManager ⌨️
 A very basic password manager coded in python. Makes use of libraries such as tkinter, customtkinter and cryptography modules
 
 In order to get started, You will need to have the latest version of Python3 installed, at the time of development this was 3.13.2
